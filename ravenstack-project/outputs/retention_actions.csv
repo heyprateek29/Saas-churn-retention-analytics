@@ -1,0 +1,21 @@
+account_name,industry,mrr_amount,churn_probability,retention_priority,recommended_action
+Company_187,DevTools,3184,0.7565045431727603,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_484,DevTools,1960,0.7480354277939595,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_54,DevTools,798,0.7304266407390475,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_436,HealthTech,3184,0.7285594488294125,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_96,Cybersecurity,2587,0.7284266397465182,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_394,DevTools,2989,0.7189464739069924,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_124,DevTools,684,0.7149418877461237,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_344,HealthTech,245,0.7104155517673744,"P3 — Low Value, High Risk",Automated nudges / offers
+Company_125,DevTools,5970,0.7097695517371934,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_200,HealthTech,380,0.7095414619001771,"P3 — Low Value, High Risk",Automated nudges / offers
+Company_59,HealthTech,171,0.7085345210053549,"P3 — Low Value, High Risk",Automated nudges / offers
+Company_300,EdTech,3332,0.705662263866967,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_123,DevTools,735,0.7017811925001961,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_288,FinTech,3383,0.6965825660881196,"P1 — High Value, High Risk",Immediate call + custom discount
+Company_199,DevTools,1029,0.6955973723584418,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_439,DevTools,1274,0.6938777249505376,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_254,DevTools,513,0.6887207181760405,"P2 — Mid Value, High Risk",Targeted email + support follow-up
+Company_79,EdTech,0,0.687871191402911,"P3 — Low Value, High Risk",Automated nudges / offers
+Company_417,FinTech,0,0.6855951418581246,"P3 — Low Value, High Risk",Automated nudges / offers
+Company_369,Cybersecurity,532,0.683250900167405,"P2 — Mid Value, High Risk",Targeted email + support follow-up
