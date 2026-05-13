@@ -121,28 +121,47 @@ Customers are segmented into:
 
 ---
 
-## SQL Analysis Snapshots
+## Python & Machine Learning Outputs
 
-### Churn by Plan
-![Churn by Plan](assets/sql_outputs/01_sql_churn_by_plan.png)
+### Churn by Plan Tier
+
+![Churn by Plan Tier](outputs/01_churn_by_plan_tier.png)
 
 ### Churn by Industry
-![Churn by Industry](assets/sql_outputs/02_sql_churn_by_industry.png)
 
-### Revenue at Risk
-![Revenue](assets/sql_outputs/03_sql_revenue_at_risk.png)
-
-### SLA Analysis
-![SLA](assets/sql_outputs/04_sql_sla_analysis.png)
-
-### Feature Usage
-![Feature](assets/sql_outputs/05_sql_feature_usage.png)
+![Churn by Industry](outputs/02_churn_by_industry.png)
 
 ### Churn Reasons
-![Reasons](assets/sql_outputs/06_sql_churn_reasons.png)
 
-### Top Customers
-![Customers](assets/sql_outputs/07_sql_top_customers.png)
+![Churn Reasons](outputs/04_churn_reasons.png)
+
+### Satisfaction vs Churn
+
+![Satisfaction vs Churn](outputs/06_satisfaction_vs_churn.png)
+
+### Usage Events vs Churn
+
+![Usage Events vs Churn](outputs/07_usage_events_vs_churn.png)
+
+### Resolution Time vs Churn
+
+![Resolution Time vs Churn](outputs/08_resolution_time_vs_churn.png)
+
+### Retention Priority Distribution
+
+![Retention Priority](outputs/11_retention_priority_distribution.png)
+
+### Churn Probability by Priority
+
+![Churn Probability](outputs/12_churn_probability_by_priority.png)
+
+### Feature Importance
+
+![Feature Importance](outputs/13_feature_importance.png)
+
+### ROC Curve
+
+![ROC Curve](outputs/14_roc_curve.png)
 
 ---
 
